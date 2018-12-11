@@ -1,3 +1,3 @@
 <?php 
-echo "Test for git flow from sushil"
+echo "Test for git flow"
 ?>
